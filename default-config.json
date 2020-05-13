@@ -1,0 +1,4 @@
+{
+    "subDomain": "[SUBDOMAIN]",
+    "authorizationValue": "Basic [HASHED KEY]"
+}
